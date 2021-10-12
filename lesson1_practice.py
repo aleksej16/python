@@ -60,7 +60,7 @@ def task_6():
     day = 1
     a = int(input("Сегодня пробежал = "))
     difference = 0
-    last_a = 2
+    last_a = a
     b = int(input("Результат, которого нужно достичь = "))
     while True:
         if a >= b:
